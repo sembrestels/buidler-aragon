@@ -1,0 +1,1 @@
+{"version":3,"file":"useEnvironment.d.ts","sourceRoot":"","sources":["../../../test/test-helpers/useEnvironment.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,yBAAyB,EAAE,MAAM,0BAA0B,CAAA;AAEpE,OAAO,QAAQ,OAAO,CAAC;IACrB,UAAU,OAAO;QACf,GAAG,EAAE,yBAAyB,CAAA;KAC/B;CACF;AAED,wBAAgB,qBAAqB,IAAI,IAAI,CAE5C;AAED,wBAAgB,cAAc,CAC5B,WAAW,EAAE,MAAM,EACnB,WAAW,SAAe,GACzB,IAAI,CAaN"}
